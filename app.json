@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "CuotaCurso",
+    "slug": "cuotacurso",
+    "scheme": "cuotacurso",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.luiss2080.cuotacurso"
+    },
+    "android": {
+      "package": "com.luiss2080.cuotacurso"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
